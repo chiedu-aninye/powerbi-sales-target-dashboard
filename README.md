@@ -44,6 +44,14 @@ The numbers told a story that spreadsheets were hiding:
 
 ---
 
+## 🎯 Who This Is For
+
+- Sales Directors tracking team performance against quarterly targets
+- Business Owners who want visibility into revenue gaps before they become crises
+- Sales Managers who need rep-level accountability without manual reporting
+
+---
+
 ## 🛠️ How It Was Built
 
 | Tool | Role |
@@ -56,7 +64,7 @@ The numbers told a story that spreadsheets were hiding:
 
 ## 🚀 How To Use This Dashboard
 
-1. **Clone or download** this repository
+1. Download this repository by clicking the green Code button above then Download ZIP
 2. Open **sales-target-dashboard.pbix** in Power BI Desktop
 3. Click **Refresh** to load the dataset
 4. Use the month and rep filters to explore performance at any level
