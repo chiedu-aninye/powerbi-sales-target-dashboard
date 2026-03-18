@@ -68,11 +68,17 @@ This project presents a fully interactive **Sales Target Performance Dashboard**
 
 ## 📁 Repository Structure
 ```
-├── sales-target-dashboard.xlsx         # Source dataset
+├── sales-target-dataset.xlsx           # Source dataset
 ├── sales-target-dashboard.pbix         # Power BI dashboard file
 ├── screenshot.png                      # Dashboard preview image
 └── README.md                           # Project documentation
 ```
+
+---
+
+## 🏷️ Tags
+
+`data-analysis` `business-intelligence` `dashboard` `kpi` `data-visualization` `power-bi` `power-query` `dax` `sales-analysis` `variance-analysis` `financial-analytics` `reporting`
 
 ---
 
